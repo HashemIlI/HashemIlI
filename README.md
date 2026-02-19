@@ -1,4 +1,4 @@
-<h1 align="center">Ahmed Fouad</h1>
+<h1 align="center">Ahmed Fouad Hashem</h1>
 
 <p align="center">
     Data Analyst | Machine Learning Engineer | AI Specialist
@@ -105,20 +105,7 @@ English – Professional Proficiency
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hashemili" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="32" height="32"/>
-  </a>
-  
-  <a href="https://www.kaggle.com/hashemili" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" 
-         alt="Kaggle" width="32" height="32"/>
-  </a>
-  
-  <a href="mailto:hashemkic@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
-         alt="Email" width="32" height="32"/>
-  </a>
-</p>
+- <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a> [LinkedIn](https://www.linkedin.com/in/hashemili)
+- 🧠 [Kaggle](https://www.kaggle.com/hashemili)
+- 📧 [Email](mailto:hashemkic@gmail.com)
 
