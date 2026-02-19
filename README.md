@@ -1,93 +1,162 @@
-<h1 align="center">Hi 👋 I'm Ahmed Fouad</h1>
+---
+title: "Ahmed Fouad | Data Science Learning Hub"
+output:
+  github_document
+---
 
-<p align="center">
-  📊 Data Analyst | 🤖 Data Scientist | 🧠 Machine Learning Engineer
-</p>
-
-<p align="center">
-  Turning data into insights. Building intelligent systems. Solving real-world problems.
-</p>
+# 📊 Free Data Science Resources  
+### Curated by Ahmed Fouad – Data Analyst & Data Scientist
 
 ---
 
-## 🚀 About Me
+## Overview
 
-- 📊 Data Analyst with strong analytical and problem-solving skills  
-- 🤖 Passionate about Data Science & Artificial Intelligence  
-- 🧠 Experienced in Machine Learning & Deep Learning projects  
-- 📈 Skilled in data cleaning, visualization, and model evaluation  
-- 🌍 Based in Egypt  
+This page is a curated collection of high-quality **free** data science learning resources that I personally recommend for anyone who wants to grow in:
 
----
+- 📊 Data Analysis  
+- 🤖 Machine Learning  
+- 🧠 Artificial Intelligence  
+- 📈 Statistics  
+- 🛠️ Data Engineering & MLOps  
 
-## 🛠️ Technical Skills
+All resources listed here are:
 
-### 👨‍💻 Programming & Data
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-</p>
+✔ High quality  
+✔ Free of charge  
+✔ Accessible without mandatory sign-up  
 
-### 📊 Data Visualization & BI
-<p>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & AI
-<p>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-
-### 🛠 Tools
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
+If you find this page useful, feel free to ⭐ star the repository and share it.
 
 ---
 
-## 📂 Featured Projects
+# 🧠 Core Data Science Foundations
 
-| Project | Description |
-|----------|-------------|
-| 🍄 Mushroom Classification | ML model to classify mushrooms as edible or poisonous |
-| 📱 Social Media Behavior Analysis | Analyzed stress, sleep, and academic performance data |
-| 🖼️ CNN Image Classifier | Deep Learning image classification using PyTorch |
-| 📈 Regression & Cross-Validation Study | Model tuning and performance optimization |
+## 📊 Statistics & Mathematics
 
----
+- 📘 **Introduction to Statistical Learning (ISLR)**  
+  Practical introduction to machine learning with strong statistical foundations.  
 
-## 📊 GitHub Stats
+- 📘 **Mathematics for Machine Learning**  
+  Covers linear algebra, calculus, and probability for ML practitioners.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+- 📘 **Think Stats (Python)**  
+  Great for applied statistical thinking using Python.
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Python for Data Science
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🔰 Getting Started
+
+- 📘 Python Data Science Handbook  
+- 📘 Python for Everybody  
+- 📄 Pandas Official Documentation  
+- 💡 Pandas Cheat Sheet  
+
+## 🚀 Advanced Python
+
+- 📘 Python Packaging User Guide  
+- 📘 Clean Code principles (for better production-ready code)
 
 ---
 
-<p align="center">
-  ⭐ Continuously learning | 🚀 Building | 📊 Improving
-</p>
+# 🤖 Machine Learning
+
+## 📘 Theory
+
+- 📘 The Elements of Statistical Learning  
+- 📘 Computer Age Statistical Inference  
+
+## 🎓 Practical Courses
+
+- 🎓 Machine Learning Crash Course – Google  
+- 🎓 fast.ai Machine Learning for Coders  
+- 📄 scikit-learn Documentation  
+
+---
+
+# 🧠 Deep Learning
+
+- 📄 PyTorch Official Tutorials  
+- 🎓 fast.ai Deep Learning Course  
+- 📘 Natural Language Processing with Python  
+- 🎥 BERT Research Series  
+
+---
+
+# 📈 Model Interpretability
+
+- 📘 Interpretable Machine Learning – Christoph Molnar  
+- 📄 Awesome Machine Learning Interpretability (GitHub list)
+
+---
+
+# ⚙️ MLOps & Production
+
+- 📄 Continuous Delivery for Machine Learning  
+- 📄 MLOps – Google Cloud Guide  
+- 📄 Monitoring ML Models in Production  
+
+---
+
+# 📊 Data Visualization
+
+- 📘 Fundamentals of Data Visualization  
+- 📘 ggplot2 Book  
+- 📄 Matplotlib & Seaborn Documentation  
+
+---
+
+# 🛠 Essential Tools
+
+## 🧾 SQL
+- SQLBolt  
+- SQLZoo  
+- Mode SQL Tutorial  
+
+## 🐳 Docker
+- Introduction to Docker  
+- Docker for Data Science  
+
+## 🌳 Git
+- Pro Git  
+- Git Cheat Sheet  
+- Oh Shit Git  
+
+---
+
+# 🧩 Specialized Topics
+
+- 🧠 NLP Resources  
+- ⏳ Time Series Forecasting  
+- 🗺 Spatial Data Science  
+- 📦 Spark & Big Data  
+
+---
+
+# 💡 My Advice for Learners
+
+If you're starting in Data Science:
+
+1. Master Python  
+2. Learn Statistics deeply  
+3. Build real projects  
+4. Understand ML theory  
+5. Focus on deployment & MLOps  
+
+Data Science is not about tools — it's about thinking.
+
+---
+
+# 🚀 About Me
+
+Ahmed Fouad  
+📊 Data Analyst  
+🤖 Data Scientist  
+🧠 Machine Learning Enthusiast  
+
+Turning data into decisions. Building intelligent systems.
+
+---
+
+⭐ If this repository helps you, consider starring it.
