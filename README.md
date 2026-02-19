@@ -1,24 +1,33 @@
 <h1 align="center">Ahmed Fouad Hashem</h1>
 
 <p align="center">
-    Data Analyst | Machine Learning Engineer | AI Specialist
+  Data Analyst | Machine Learning Engineer | AI Engineering Trainee
 </p>
 
 <p align="center">
-  Building data-driven solutions and intelligent systems using Machine Learning and Deep Learning.
+  Focused on building scalable machine learning systems, optimizing deep learning models, and delivering data-driven insights that support intelligent decision-making.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HashemIlI&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashemIlI&layout=compact" height="150"/>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Profile
 
-Data Analyst and Machine Learning Engineer with hands-on experience in predictive modeling, deep learning, and data analysis.
+Data Analyst and Machine Learning Engineer with hands-on experience in predictive modeling, deep learning, and structured data analysis.
 
-Currently advancing my expertise through the IBM AI Engineering Professional Certificate, focusing on Deep Learning, Neural Networks, Computer Vision, and Model Deployment.
+Currently advancing my expertise through the IBM AI Engineering Professional Certificate, focusing on Deep Learning, Neural Networks, Computer Vision, and model optimization.
 
 I specialize in:
 - Data preprocessing & feature engineering
-- Building ML pipelines
+- Building end-to-end ML pipelines
 - Designing and training Neural Networks
 - Applying AI to structured and unstructured data
 
@@ -43,6 +52,7 @@ I specialize in:
 - Random Forest
 - Model Evaluation & Cross-Validation
 - Scikit-Learn
+- Feature Engineering
 
 ### 🧠 Deep Learning
 - Artificial Neural Networks (ANN)
@@ -51,13 +61,13 @@ I specialize in:
 - TensorFlow
 - Keras
 - PyTorch
-- Model Training & Evaluation
+- Batch Normalization
+- Dropout Regularization
 
-### 🖼 Computer Vision (IBM AI Engineering Track)
+### 🖼 Computer Vision
 - Convolutional Neural Networks (CNN)
 - Image Classification
 - Transfer Learning (Foundational Level)
-- OpenCV (Basic Exposure)
 
 ---
 
@@ -67,6 +77,7 @@ I specialize in:
 - Built a custom ANN for fare prediction
 - Applied Batch Normalization and Dropout
 - Designed preprocessing and training pipeline
+- Improved model generalization and stability
 
 ### 🚢 Titanic Survival Prediction – ML Classification
 - Conducted EDA and feature engineering
@@ -77,6 +88,15 @@ I specialize in:
 - Text preprocessing & cleaning
 - CountVectorizer for feature extraction
 - Built ML-based sentiment classifier
+
+---
+
+## 🧩 Currently Working On
+
+- IBM AI Engineering Professional Certificate
+- Improving CNN performance for image classification
+- Enhancing model generalization techniques
+- Strengthening model evaluation practices
 
 ---
 
@@ -105,7 +125,8 @@ English – Professional Proficiency
 
 ## 📫 Connect With Me
 
-- <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a> [LinkedIn](https://www.linkedin.com/in/hashemili)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hashemili)
 - 🧠 [Kaggle](https://www.kaggle.com/hashemili)
 - 📧 [Email](mailto:hashemkic@gmail.com)
-
+  </a>
+</p>
