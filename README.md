@@ -1,162 +1,110 @@
----
-title: "Ahmed Fouad | Data Science Learning Hub"
-output:
-  github_document
----
+<h1 align="center">Ahmed Fouad Hashem</h1>
 
-# 📊 Free Data Science Resources  
-### Curated by Ahmed Fouad – Data Analyst & Data Scientist
+<p align="center">
+  Data Analyst | Machine Learning Engineer | MIS Graduate
+</p>
 
----
-
-## Overview
-
-This page is a curated collection of high-quality **free** data science learning resources that I personally recommend for anyone who wants to grow in:
-
-- 📊 Data Analysis  
-- 🤖 Machine Learning  
-- 🧠 Artificial Intelligence  
-- 📈 Statistics  
-- 🛠️ Data Engineering & MLOps  
-
-All resources listed here are:
-
-✔ High quality  
-✔ Free of charge  
-✔ Accessible without mandatory sign-up  
-
-If you find this page useful, feel free to ⭐ star the repository and share it.
+<p align="center">
+  Building intelligent systems and transforming data into actionable insights.
+</p>
 
 ---
 
-# 🧠 Core Data Science Foundations
+## 👨‍💻 About Me
 
-## 📊 Statistics & Mathematics
+I am a Data Analyst with a strong academic foundation in Management Information Systems (MIS) and hands-on experience in Machine Learning and Deep Learning.
 
-- 📘 **Introduction to Statistical Learning (ISLR)**  
-  Practical introduction to machine learning with strong statistical foundations.  
+My focus is on:
+- Extracting meaningful insights from complex datasets
+- Designing predictive models with strong generalization
+- Applying statistical thinking to real-world business problems
 
-- 📘 **Mathematics for Machine Learning**  
-  Covers linear algebra, calculus, and probability for ML practitioners.  
-
-- 📘 **Think Stats (Python)**  
-  Great for applied statistical thinking using Python.
+Certified by Google and DeepLearning.AI.
 
 ---
 
-# 🐍 Python for Data Science
+## 🛠 Technical Stack
 
-## 🔰 Getting Started
+### 📊 Data Analysis & BI
+- SQL
+- Excel / Spreadsheets
+- Power BI
+- Tableau
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
 
-- 📘 Python Data Science Handbook  
-- 📘 Python for Everybody  
-- 📄 Pandas Official Documentation  
-- 💡 Pandas Cheat Sheet  
+### 🐍 Programming
+- Python
 
-## 🚀 Advanced Python
+### 🤖 Machine Learning & AI
+- Regression & Classification
+- Clustering
+- Artificial Neural Networks (ANN)
+- Feature Engineering
+- Model Evaluation & Cross-Validation
 
-- 📘 Python Packaging User Guide  
-- 📘 Clean Code principles (for better production-ready code)
-
----
-
-# 🤖 Machine Learning
-
-## 📘 Theory
-
-- 📘 The Elements of Statistical Learning  
-- 📘 Computer Age Statistical Inference  
-
-## 🎓 Practical Courses
-
-- 🎓 Machine Learning Crash Course – Google  
-- 🎓 fast.ai Machine Learning for Coders  
-- 📄 scikit-learn Documentation  
-
----
-
-# 🧠 Deep Learning
-
-- 📄 PyTorch Official Tutorials  
-- 🎓 fast.ai Deep Learning Course  
-- 📘 Natural Language Processing with Python  
-- 🎥 BERT Research Series  
+### 📚 Libraries & Frameworks
+- Pandas
+- NumPy
+- Scikit-Learn
+- PyTorch
+- TensorFlow / Keras
+- Matplotlib
+- Seaborn
 
 ---
 
-# 📈 Model Interpretability
+## 🚀 Featured Projects
 
-- 📘 Interpretable Machine Learning – Christoph Molnar  
-- 📄 Awesome Machine Learning Interpretability (GitHub list)
+### 🚕 Taxi Fare Estimation System (Deep Learning)
+Built a custom Artificial Neural Network using Keras & TensorFlow to estimate taxi fares.
 
----
+- Designed architecture with Batch Normalization
+- Applied Dropout for regularization
+- Engineered a robust preprocessing pipeline
+- Optimized convergence and generalization
 
-# ⚙️ MLOps & Production
+### 🚢 Titanic Survival Prediction
+Binary Classification project using Scikit-Learn.
 
-- 📄 Continuous Delivery for Machine Learning  
-- 📄 MLOps – Google Cloud Guide  
-- 📄 Monitoring ML Models in Production  
+- Advanced EDA & correlation analysis
+- Feature engineering (Family Size, Title extraction)
+- Statistical imputation & One-Hot Encoding
+- Built Random Forest & Logistic Regression models
 
----
+### 🧠 Customer Feedback Analysis (NLP)
+Sentiment analysis system for restaurant reviews.
 
-# 📊 Data Visualization
-
-- 📘 Fundamentals of Data Visualization  
-- 📘 ggplot2 Book  
-- 📄 Matplotlib & Seaborn Documentation  
-
----
-
-# 🛠 Essential Tools
-
-## 🧾 SQL
-- SQLBolt  
-- SQLZoo  
-- Mode SQL Tutorial  
-
-## 🐳 Docker
-- Introduction to Docker  
-- Docker for Data Science  
-
-## 🌳 Git
-- Pro Git  
-- Git Cheat Sheet  
-- Oh Shit Git  
+- Advanced text preprocessing
+- CountVectorizer transformation
+- Built ML classification pipeline
 
 ---
 
-# 🧩 Specialized Topics
+## 🎓 Education
 
-- 🧠 NLP Resources  
-- ⏳ Time Series Forecasting  
-- 🗺 Spatial Data Science  
-- 📦 Spark & Big Data  
+Bachelor of Management Information Systems (MIS)  
+Delta University – Egypt (2019 – 2023)
 
 ---
 
-# 💡 My Advice for Learners
+## 📜 Certifications
 
-If you're starting in Data Science:
-
-1. Master Python  
-2. Learn Statistics deeply  
-3. Build real projects  
-4. Understand ML theory  
-5. Focus on deployment & MLOps  
-
-Data Science is not about tools — it's about thinking.
+- Machine Learning Specialization – Stanford University & DeepLearning.AI (2025)
+- Google Advanced Data Analytics Professional Certificate (2024)
+- Google Data Analytics Professional Certificate (2023)
 
 ---
 
-# 🚀 About Me
+## 🌍 Languages
 
-Ahmed Fouad  
-📊 Data Analyst  
-🤖 Data Scientist  
-🧠 Machine Learning Enthusiast  
-
-Turning data into decisions. Building intelligent systems.
+Arabic: Native  
+English: Professional Proficiency
 
 ---
 
-⭐ If this repository helps you, consider starring it.
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/hashemili  
+GitHub: https://github.com/HashemIlI  
+Email: hashemkic@gmail.com
