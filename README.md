@@ -1,83 +1,89 @@
 <h1 align="center">Ahmed Fouad Hashem</h1>
 
 <p align="center">
-  Data Analyst | Machine Learning Engineer | MIS Graduate
+  Machine Learning Engineer | AI Specialist | Data Analyst
 </p>
 
 <p align="center">
-  Building intelligent systems and transforming data into actionable insights.
+  Designing scalable ML systems. Optimizing deep learning models. Solving real-world problems with AI.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🔥 Profile
 
-I am a Data Analyst with a strong academic foundation in Management Information Systems (MIS) and hands-on experience in Machine Learning and Deep Learning.
+Machine Learning Engineer with a strong foundation in Management Information Systems (MIS) and hands-on experience building predictive and deep learning systems.
 
-My focus is on:
-- Extracting meaningful insights from complex datasets
-- Designing predictive models with strong generalization
-- Applying statistical thinking to real-world business problems
+Certified by Stanford & DeepLearning.AI and Google.
 
-Certified by Google and DeepLearning.AI.
+I focus on:
+- Building high-performance ML & ANN models
+- Advanced feature engineering & preprocessing pipelines
+- Model optimization and generalization
+- Applying AI to business-critical decision systems
 
 ---
 
-## 🛠 Technical Stack
+## ⚙️ Core Expertise
 
-### 📊 Data Analysis & BI
-- SQL
-- Excel / Spreadsheets
-- Power BI
-- Tableau
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-
-### 🐍 Programming
-- Python
-
-### 🤖 Machine Learning & AI
-- Regression & Classification
-- Clustering
-- Artificial Neural Networks (ANN)
-- Feature Engineering
+### 🧠 Machine Learning
+- Supervised Learning (Regression, Classification)
 - Model Evaluation & Cross-Validation
+- Feature Engineering & Data Transformation
+- Ensemble Methods (Random Forest)
+- Logistic Regression
 
-### 📚 Libraries & Frameworks
-- Pandas
-- NumPy
-- Scikit-Learn
-- PyTorch
+### 🤖 Deep Learning
+- Artificial Neural Networks (ANN)
+- Custom Architectures
+- Batch Normalization
+- Dropout Regularization
 - TensorFlow / Keras
-- Matplotlib
-- Seaborn
+- PyTorch
+
+### 🧪 NLP
+- Text Cleaning & Preprocessing
+- CountVectorizer
+- Sparse Matrix Modeling
+- Sentiment Classification Pipelines
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-### 🚕 Taxi Fare Estimation System (Deep Learning)
-Built a custom Artificial Neural Network using Keras & TensorFlow to estimate taxi fares.
+**Programming:**  
+Python
 
-- Designed architecture with Batch Normalization
-- Applied Dropout for regularization
-- Engineered a robust preprocessing pipeline
-- Optimized convergence and generalization
+**Data & ML Libraries:**  
+Pandas | NumPy | Scikit-Learn | TensorFlow | Keras | PyTorch  
 
-### 🚢 Titanic Survival Prediction
-Binary Classification project using Scikit-Learn.
+**Visualization:**  
+Matplotlib | Seaborn  
 
-- Advanced EDA & correlation analysis
-- Feature engineering (Family Size, Title extraction)
-- Statistical imputation & One-Hot Encoding
-- Built Random Forest & Logistic Regression models
+**Data & BI:**  
+SQL | Power BI | Tableau | Excel  
 
-### 🧠 Customer Feedback Analysis (NLP)
-Sentiment analysis system for restaurant reviews.
+---
 
-- Advanced text preprocessing
-- CountVectorizer transformation
-- Built ML classification pipeline
+## 🚀 Selected AI Projects
+
+### 🚕 Taxi Fare Estimation – Deep Learning System
+- Engineered a custom ANN for fare prediction
+- Integrated Batch Normalization for training stability
+- Applied Dropout to prevent overfitting
+- Designed full preprocessing & training pipeline
+
+### 🚢 Titanic Survival Prediction – ML Pipeline
+- Conducted advanced EDA and correlation analysis
+- Built feature engineering pipeline (Family Size, Title Extraction)
+- Applied statistical imputation & encoding
+- Trained and evaluated Random Forest & Logistic Regression models
+
+### 🧠 Customer Feedback NLP System
+- Processed unstructured review data
+- Built text-cleaning pipeline
+- Applied CountVectorizer
+- Developed ML-based sentiment classifier
 
 ---
 
@@ -90,7 +96,7 @@ Delta University – Egypt (2019 – 2023)
 
 ## 📜 Certifications
 
-- Machine Learning Specialization – Stanford University & DeepLearning.AI (2025)
+- Machine Learning Specialization – Stanford & DeepLearning.AI (2025)
 - Google Advanced Data Analytics Professional Certificate (2024)
 - Google Data Analytics Professional Certificate (2023)
 
@@ -98,13 +104,13 @@ Delta University – Egypt (2019 – 2023)
 
 ## 🌍 Languages
 
-Arabic: Native  
-English: Professional Proficiency
+Arabic – Native  
+English – Professional Proficiency  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/hashemili  
-GitHub: https://github.com/HashemIlI  
+Kaggel: https://www.kaggle.com/hashemili  
 Email: hashemkic@gmail.com
