@@ -10,11 +10,13 @@
 
 ---
 
-## 📊 GitHub Activity
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashemIlI&theme=github-dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HashemIlI&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
