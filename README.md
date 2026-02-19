@@ -1,104 +1,98 @@
-<h1 align="center">Ahmed Fouad Hashem</h1>
+<h1 align="center">Ahmed Fouad</h1>
 
 <p align="center">
-  Machine Learning Engineer | AI Specialist | Data Analyst
+    Data Analyst | Machine Learning Engineer | AI Specialist
 </p>
 
 <p align="center">
-  Designing scalable ML systems. Optimizing deep learning models. Solving real-world problems with AI.
+  Building data-driven solutions and intelligent systems using Machine Learning and Deep Learning.
 </p>
 
 ---
 
-## 🔥 Profile
+## 👨‍💻 Professional Profile
 
-Machine Learning Engineer with a strong foundation in Management Information Systems (MIS) and hands-on experience building predictive and deep learning systems.
+Data Analyst and Machine Learning Engineer with hands-on experience in predictive modeling, deep learning, and data analysis.
 
-Certified by Stanford & DeepLearning.AI and Google.
+Currently advancing my expertise through the IBM AI Engineering Professional Certificate, focusing on Deep Learning, Neural Networks, Computer Vision, and Model Deployment.
 
-I focus on:
-- Building high-performance ML & ANN models
-- Advanced feature engineering & preprocessing pipelines
-- Model optimization and generalization
-- Applying AI to business-critical decision systems
+I specialize in:
+- Data preprocessing & feature engineering
+- Building ML pipelines
+- Designing and training Neural Networks
+- Applying AI to structured and unstructured data
 
 ---
 
-## ⚙️ Core Expertise
+## 🛠 Technical Skills
 
-### 🧠 Machine Learning
+### 📊 Data Analysis
+- SQL
+- Excel
+- Power BI
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization (Matplotlib, Seaborn)
+
+### 🐍 Programming
+- Python
+
+### 🤖 Machine Learning
 - Supervised Learning (Regression, Classification)
-- Model Evaluation & Cross-Validation
-- Feature Engineering & Data Transformation
-- Ensemble Methods (Random Forest)
 - Logistic Regression
+- Random Forest
+- Model Evaluation & Cross-Validation
+- Scikit-Learn
 
-### 🤖 Deep Learning
+### 🧠 Deep Learning
 - Artificial Neural Networks (ANN)
-- Custom Architectures
-- Batch Normalization
-- Dropout Regularization
-- TensorFlow / Keras
+- Forward & Backpropagation
+- Loss Functions & Optimization
+- TensorFlow
+- Keras
 - PyTorch
+- Model Training & Evaluation
 
-### 🧪 NLP
-- Text Cleaning & Preprocessing
-- CountVectorizer
-- Sparse Matrix Modeling
-- Sentiment Classification Pipelines
-
----
-
-## 🛠 Tech Stack
-
-**Programming:**  
-Python
-
-**Data & ML Libraries:**  
-Pandas | NumPy | Scikit-Learn | TensorFlow | Keras | PyTorch  
-
-**Visualization:**  
-Matplotlib | Seaborn  
-
-**Data & BI:**  
-SQL | Power BI | Tableau | Excel  
+### 🖼 Computer Vision (IBM AI Engineering Track)
+- Convolutional Neural Networks (CNN)
+- Image Classification
+- Transfer Learning (Foundational Level)
+- OpenCV (Basic Exposure)
 
 ---
 
-## 🚀 Selected AI Projects
+## 🚀 Selected Projects
 
-### 🚕 Taxi Fare Estimation – Deep Learning System
-- Engineered a custom ANN for fare prediction
-- Integrated Batch Normalization for training stability
-- Applied Dropout to prevent overfitting
-- Designed full preprocessing & training pipeline
+### 🚕 Taxi Fare Estimation – Deep Learning
+- Built a custom ANN for fare prediction
+- Applied Batch Normalization and Dropout
+- Designed preprocessing and training pipeline
 
-### 🚢 Titanic Survival Prediction – ML Pipeline
-- Conducted advanced EDA and correlation analysis
-- Built feature engineering pipeline (Family Size, Title Extraction)
-- Applied statistical imputation & encoding
-- Trained and evaluated Random Forest & Logistic Regression models
+### 🚢 Titanic Survival Prediction – ML Classification
+- Conducted EDA and feature engineering
+- Applied encoding and imputation techniques
+- Trained and evaluated classification models
 
-### 🧠 Customer Feedback NLP System
-- Processed unstructured review data
-- Built text-cleaning pipeline
-- Applied CountVectorizer
-- Developed ML-based sentiment classifier
+### 🧠 Customer Feedback Analysis – NLP
+- Text preprocessing & cleaning
+- CountVectorizer for feature extraction
+- Built ML-based sentiment classifier
 
 ---
 
 ## 🎓 Education
 
 Bachelor of Management Information Systems (MIS)  
-Delta University – Egypt (2019 – 2023)
+Delta University – Egypt  
 
 ---
 
 ## 📜 Certifications
 
-- Machine Learning Specialization – Stanford & DeepLearning.AI (2025)
-- Google Advanced Data Analytics Professional Certificate (2024)
-- Google Data Analytics Professional Certificate (2023)
+- Machine Learning Specialization – Stanford & DeepLearning.AI
+- Google Advanced Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
+- IBM AI Engineering Professional Certificate (In Progress)
 
 ---
 
@@ -109,8 +103,22 @@ English – Professional Proficiency
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/hashemili  
-Kaggel: https://www.kaggle.com/hashemili  
-Email: hashemkic@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/hashemili" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="32" height="32"/>
+  </a>
+  
+  <a href="https://www.kaggle.com/hashemili" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" 
+         alt="Kaggle" width="32" height="32"/>
+  </a>
+  
+  <a href="mailto:hashemkic@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Email" width="32" height="32"/>
+  </a>
+</p>
+
