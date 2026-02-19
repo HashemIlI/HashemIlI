@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Fouad Hashem</h1>
 
 <p align="center">
-  Data Analyst | Machine Learning Engineer | AI Engineering Trainee
+  Data Analyst | Machine Learning Engineer | AI Specialist.
 </p>
 
 <p align="center">
