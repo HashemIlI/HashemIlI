@@ -10,11 +10,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashemIlI&show_icons=true&count_private=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashemIlI&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashemIlI&theme=github-dark"/>
 </p>
 
 ---
