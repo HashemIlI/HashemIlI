@@ -10,16 +10,6 @@
 
 ---
 
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashemIlI&theme=github-dark"/>
-</p>
-
-
----
-
 ## 👨‍💻 Professional Profile
 
 Data Analyst and Machine Learning Engineer with hands-on experience in predictive modeling, deep learning, and structured data analysis.
@@ -126,8 +116,8 @@ English – Professional Proficiency
 
 ## 📫 Connect With Me
 
--- 🌐 [LinkedIn](https://www.linkedin.com/in/hashemili)
--- 🧠 [Kaggle](https://www.kaggle.com/hashemili)
--- 📧 [Email](mailto:hashemkic@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hashemili)
+- 🧠 [Kaggle](https://www.kaggle.com/hashemili)
+- 📧 [Email](mailto:hashemkic@gmail.com)
   </a>
 </p>
