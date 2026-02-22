@@ -126,8 +126,8 @@ English – Professional Proficiency
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hashemili)
-- 🧠 [Kaggle](https://www.kaggle.com/hashemili)
-- 📧 [Email](mailto:hashemkic@gmail.com)
+-- 🌐 [LinkedIn](https://www.linkedin.com/in/hashemili)
+-- 🧠 [Kaggle](https://www.kaggle.com/hashemili)
+-- 📧 [Email](mailto:hashemkic@gmail.com)
   </a>
 </p>
