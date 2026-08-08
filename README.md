@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Fouad Hashem</h1>
 
 <p align="center">
-  <strong>Data Analyst &nbsp;·&nbsp; Applied AI &amp; Machine Learning Specialist</strong>
+  <strong>Data Analyst &nbsp;·&nbsp; Data Scientist</strong>
   <br/>
   Al Mansoura, Egypt
 </p>
