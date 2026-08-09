@@ -78,20 +78,21 @@ Retrieval-augmented generation · hybrid search and reranking · computer vision
 | **InterviewIQ** *(graduation project)* | PyTorch · Wav2Vec2-XLSR · Swin-T + LoRA · FastAPI · React | Multimodal mock-interview evaluation across NLP, audio, and vision branches, combined by a fusion engine into a delivery-confidence score. |
 | **AI Data Analyst Assistant** | FastAPI · React · Ollama (LLaMA 3) · ReportLab | Offline-first analytics platform driven by a 16-step asynchronous EDA pipeline, with LLM-generated executive summaries and automated PDF reporting — running entirely on local hardware. |
 | **[Personal Portfolio](https://myportfolio-one-roan-25.vercel.app/)** | Next.js · Vercel Blob · ISR | Portfolio site with a full headless CMS dashboard, dynamic skill and category systems, RTL and dark-mode support. |
+| **Arabic Audio Intelligence** *(team project)* | PyTorch · Wav2Vec2-XLSR · BiLSTM | Evidence-only stereo call review classifying vocal activation from Arabic call recordings. 89.2% macro F1 on validation; re-evaluated on a speaker-disjoint test set to measure true generalisation. |
 | **AI Support Brain** | n8n · Ollama · Qdrant · Google Sheets | Automation workflow wiring a self-hosted LLM and vector store into a support-ticket pipeline. |
 
 ---
 
 ## Experience
 
-**Applied AI &amp; Data Analytics Trainee** — Digilians, Egyptian Military Academy · 9 Months
+**Applied AI &amp; Data Analytics** — Digilians, Egyptian Military Academy · 9 Months
 
-- Designed and deployed **10+ end-to-end ML pipelines** on datasets up to **100K+ records**, covering preprocessing, feature engineering, and model evaluation.
-- Built and optimised **10+ predictive models** (Random Forest, Logistic Regression, ANN), reaching up to **98% classification accuracy**.
-- Improved model performance by **15–20%** through hyperparameter tuning, cross-validation, and regularisation.
-- Reduced data preprocessing time by **30%** by automating cleaning and transformation workflows in Python.
-- Conducted statistical analysis and hypothesis testing on real-world datasets, improving business decision accuracy by **25%**.
-- Produced **10+ analytical reports and interactive dashboards** supporting data-driven decision-making.
+- Designed and deployed **10+ end-to-end ML pipelines** on datasets up to **100K+ records**, covering preprocessing, feature engineering, model selection, and evaluation.
+- Built and tuned **10+ predictive models** (Random Forest, Logistic Regression, ANN) to **98% classification accuracy**, improving performance **15–20%** through hyperparameter search, cross-validation, and regularisation.
+- Moved beyond tabular modelling into **deep learning and multimodal systems** — CNN + LSTM video classification, Wav2Vec2-XLSR audio models, and retrieval-augmented generation over vector stores.
+- Built and evaluated **hybrid retrieval pipelines** (dense embeddings + BM25, cross-encoder reranking, abstention calibration), measured with Hit Rate@k and MRR on held-out question sets rather than by inspection.
+- Automated cleaning and transformation workflows in Python, cutting data preprocessing time by **30%**.
+- Ran statistical analysis and hypothesis testing on real-world datasets, and delivered **10+ analytical reports and interactive Power BI dashboards** translating results into business recommendations.
 
 ---
 
