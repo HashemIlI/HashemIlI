@@ -71,17 +71,6 @@ Retrieval-augmented generation · hybrid search and reranking · computer vision
 
 ---
 
-## Selected Additional Work
-
-| Project | Stack | Summary |
-| :--- | :--- | :--- |
-| **InterviewIQ** *(graduation project)* | PyTorch · Wav2Vec2-XLSR · Swin-T + LoRA · FastAPI · React | Multimodal mock-interview evaluation across NLP, audio, and vision branches, combined by a fusion engine into a delivery-confidence score. |
-| **AI Data Analyst Assistant** | FastAPI · React · Ollama (LLaMA 3) · ReportLab | Offline-first analytics platform driven by a 16-step asynchronous EDA pipeline, with LLM-generated executive summaries and automated PDF reporting — running entirely on local hardware. |
-| **[Personal Portfolio](https://myportfolio-one-roan-25.vercel.app/)** | Next.js · Vercel Blob · ISR | Portfolio site with a full headless CMS dashboard, dynamic skill and category systems, RTL and dark-mode support. |
-| **AI Support Brain** | n8n · Ollama · Qdrant · Google Sheets | Automation workflow wiring a self-hosted LLM and vector store into a support-ticket pipeline. |
-
----
-
 ## Experience
 
 **Applied AI &amp; Data Analytics Trainee** — Digilians, Egyptian Military Academy · 9 Months
