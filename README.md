@@ -71,21 +71,9 @@ Retrieval-augmented generation · hybrid search and reranking · computer vision
 
 ---
 
-## Selected Additional Work
-
-| Project | Stack | Summary |
-| :--- | :--- | :--- |
-| **InterviewIQ** *(graduation project)* | PyTorch · Wav2Vec2-XLSR · Swin-T + LoRA · FastAPI · React | Multimodal mock-interview evaluation across NLP, audio, and vision branches, combined by a fusion engine into a delivery-confidence score. |
-| **AI Data Analyst Assistant** | FastAPI · React · Ollama (LLaMA 3) · ReportLab | Offline-first analytics platform driven by a 16-step asynchronous EDA pipeline, with LLM-generated executive summaries and automated PDF reporting — running entirely on local hardware. |
-| **[Personal Portfolio](https://myportfolio-one-roan-25.vercel.app/)** | Next.js · Vercel Blob · ISR | Portfolio site with a full headless CMS dashboard, dynamic skill and category systems, RTL and dark-mode support. |
-| **Arabic Audio Intelligence** *(team project)* | PyTorch · Wav2Vec2-XLSR · BiLSTM | Evidence-only stereo call review classifying vocal activation from Arabic call recordings. 89.2% macro F1 on validation; re-evaluated on a speaker-disjoint test set to measure true generalisation. |
-| **AI Support Brain** | n8n · Ollama · Qdrant · Google Sheets | Automation workflow wiring a self-hosted LLM and vector store into a support-ticket pipeline. |
-
----
-
 ## Experience
 
-**Applied AI &amp; Data Analytics** — Digilians, Egyptian Military Academy · 9 Months
+**Applied AI &amp; Data Analytics** — Digilians, Egyptian Military Academy ·
 
 - Designed and deployed **10+ end-to-end ML pipelines** on datasets up to **100K+ records**, covering preprocessing, feature engineering, model selection, and evaluation.
 - Built and tuned **10+ predictive models** (Random Forest, Logistic Regression, ANN) to **98% classification accuracy**, improving performance **15–20%** through hyperparameter search, cross-validation, and regularisation.
