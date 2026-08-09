@@ -1,9 +1,5 @@
-<h1 align="center">Ahmed Fouad Hashem</h1>
-
 <p align="center">
-  <strong>Data Analyst &nbsp;·&nbsp; Data Scientist</strong>
-  <br/>
-  Al Mansoura, Egypt
+  <img src="assets/banner.png" width="100%" alt="Ahmed Fouad Hashem — Data Scientist &amp; Applied AI Engineer · Machine Learning, Deep Learning, Retrieval-Augmented Generation, Computer Vision, Statistical Analysis, Business Intelligence · Microsoft Certified (PL-300) · Al Mansoura, Egypt" />
 </p>
 
 <p align="center">
@@ -17,7 +13,7 @@
 
 ## About
 
-I build data systems end to end — from raw, messy sources through statistical modelling and evaluation, to the dashboards and applications people actually make decisions with.
+I build the whole chain — from raw, messy sources through statistical modelling and evaluation, to the dashboards and applications people actually make decisions with.
 
 My background is in Management Information Systems, followed by 9+ months of intensive applied training at **Digilians (Egyptian Military Academy)**, where I designed and deployed 10+ end-to-end ML pipelines on datasets exceeding 100K records. I'm **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**, with additional certification from IBM, Stanford &amp; DeepLearning.AI, and Google.
 
