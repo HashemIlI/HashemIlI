@@ -36,6 +36,17 @@ Retrieval-augmented generation · hybrid search and reranking · computer vision
 
 ## Featured Work
 
+### [E-Commerce Management System](https://github.com/HashemIlI/E-Commerce_Management_System)
+
+*The full analyst loop — clean it, model it, then say what to do about it.*
+
+`Python` `SQL` `Pandas` `Scikit-learn` `Matplotlib/Seaborn` `Power BI`
+
+- Built an end-to-end EDA and machine learning pipeline on a real-world retail dataset: cleaning, feature engineering, and predictive modelling.
+- Applied **RFM segmentation** to isolate three distinct customer personas, and found the **top 10 products drive over 60% of total revenue**.
+- Built regression and classification models for sales forecasting and segmentation, surfacing a **Q4 seasonal revenue surge** and a measurable link between repeat-purchase rate and discount depth.
+- Delivered an interactive **Power BI dashboard** translating the analysis into revenue, retention, and product-strategy recommendations.
+
 ### [SupportFlow AI — Hybrid RAG for Customer Support](https://github.com/HashemIlI/SupportFlow-AI)
 
 *A retrieval system that knows when **not** to answer.*
@@ -57,17 +68,6 @@ Retrieval-augmented generation · hybrid search and reranking · computer vision
 - Designed a **sliding-window inference pipeline** (2s window, 1s stride) with temporal smoothing and event merging to localise incidents on a timeline.
 - Added a parallel **YOLO11n** person-detection branch and an automated Arabic explainability report with downloadable HTML evidence export.
 - Deployed dual Gradio and Streamlit dashboards over a single shared inference core, with interactive probability charts and an incident timeline.
-
-### [E-Commerce Management System](https://github.com/HashemIlI/E-Commerce_Management_System)
-
-*The full analyst loop — clean it, model it, then say what to do about it.*
-
-`Python` `SQL` `Pandas` `Scikit-learn` `Matplotlib/Seaborn` `Power BI`
-
-- Built an end-to-end EDA and machine learning pipeline on a real-world retail dataset: cleaning, feature engineering, and predictive modelling.
-- Applied **RFM segmentation** to isolate three distinct customer personas, and found the **top 10 products drive over 60% of total revenue**.
-- Built regression and classification models for sales forecasting and segmentation, surfacing a **Q4 seasonal revenue surge** and a measurable link between repeat-purchase rate and discount depth.
-- Delivered an interactive **Power BI dashboard** translating the analysis into revenue, retention, and product-strategy recommendations.
 
 ---
 
